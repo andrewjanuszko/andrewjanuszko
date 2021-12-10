@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewjanuszko&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewjanuszko&theme=swift)
 
 
 - 👋 Hi, I’m @andrewjanuszko
