@@ -1,11 +1,10 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewjanuszko&theme=swift)
+# Hello! I'm Andrew Januszko 👋
 
+## About Me
+  - Majoring in software engineering with a minor in mathematics at Shippensburg University.
+  - Solution Analyst at Deloitte.
 
-- 👋 Hi, I’m @andrewjanuszko
-- 👀 I’m interested in mobile application development, computer graphics, and machine learning.
-- 🌱 I’m currently studying Software Engineering at Shippensburg University.
+## My Statistics
 
-<!---
-andrewjanuszko/andrewjanuszko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewjanuszko&theme=swift&layout=compact&langs_count=8)
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewjanuszko&theme=swift&show_icons=true?exclude)
