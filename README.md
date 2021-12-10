@@ -1,3 +1,6 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewjanuszko&theme=default)
+
+
 - 👋 Hi, I’m @andrewjanuszko
 - 👀 I’m interested in mobile application development, computer graphics, and machine learning.
 - 🌱 I’m currently studying Software Engineering at Shippensburg University.
