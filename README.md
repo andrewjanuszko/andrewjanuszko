@@ -17,5 +17,5 @@
     
 ## My GitHub Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewjanuszko&langs_count=8&layout=compact)](https://github.com/andrewjanuszko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewjanuszko&layout=compact)](https://github.com/andrewjanuszko)
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewjanuszko&show_icons=true?exclude)
