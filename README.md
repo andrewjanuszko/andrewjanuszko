@@ -6,5 +6,5 @@
 
 ## My Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewjanuszko&theme=swift&layout=compact&langs_count=6&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewjanuszko&theme=swift&hide=css,html&layout=compact&langs_count=6)
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewjanuszko&theme=swift&show_icons=true?exclude)
